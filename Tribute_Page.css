@@ -1,0 +1,61 @@
+#logo {
+  width: 100%;
+  height: auto;
+}
+body {
+  background-color: rgb(8, 8, 8);
+}
+.logo {
+  background-color: rgb(8, 8, 8);
+}
+#title {
+  font-family: "NIGHTMARE PILLS", sans-serif;
+
+  font-size: 100px;
+}
+
+.red {
+  display: inline-block;
+  color: rgb(124, 0, 0);
+}
+#title {
+  color: rgb(202, 202, 191);
+}
+.itachi {
+  width: 75%;
+  height: auto;
+}
+.content {
+  background-color: rgb(22, 4, 0);
+}
+#img-caption, #tribute-info {
+    font-weight: bold;
+  font-size: 19px;
+  color: rgb(126, 126, 75);
+  font-family: "Nunito", sans-serif;
+  font-family: "Roboto Mono", monospace;
+}
+#tribute-info{
+    color: rgb(121, 102, 75);
+    font-family: 'chetlie', sans-serif;
+    font-size: 50px;
+}
+.sign{
+    font-family: 'Silkstone', sans-serif;
+                                              
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+}
+h2{
+    color: whitesmoke;
+    font-family: "Roboto Mono", monospace;
+}
+img{
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
